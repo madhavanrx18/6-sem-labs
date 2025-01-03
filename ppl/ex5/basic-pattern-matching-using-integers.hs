@@ -8,3 +8,4 @@ isZero a =
 main = do 
     print(isZero 5)
     print(isZero 0)
+    print(isZero 8)
